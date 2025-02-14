@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Resume Builder</title>
+    <link rel="stylesheet" href="styles_rb.css">
+</head>
+<body>
+
+    <header>
+        <h1>AI Resume Builder</h1>
+        <p>Create a professional resume with AI assistance.</p>
+    </header>
+
+    <main>
+        <form id="resumeForm">
+            <label for="fullName">Full Name:</label>
+            <input type="text" id="fullName" required>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" required>
+
+            <label for="phone">Phone:</label>
+            <input type="tel" id="phone" required>
+
+            <label for="summary">Professional Summary:</label>
+            <textarea id="summary" required></textarea>
+
+            <label for="skills">Skills (comma-separated):</label>
+            <input type="text" id="skills" required>
+
+            <label for="experience">Work Experience:</label>
+            <textarea id="experience" required></textarea>
+
+            <button type="submit">Generate Resume</button>
+        </form>
+
+        <section id="resumeOutput" class="hidden">
+            <h2>Your AI-Generated Resume</h2>
+            <div id="resumeContent"></div>
+            <button id="downloadResume">Download PDF</button>
+        </section>
+    </main>
+
+    <script src="script_rb.js"></script>
+
+</body>
+</html>
+
+
+<!-- resume vaale page ko homepage se hi link krdenge ek section ya button daalkr chhota sa…. 
+homepage nhi, toh kahin aur maybe...
+usko link krne ka code: -->
+<!--
+<section id="ai-resume">
+    <h2>Try Our AI Resume Builder</h2>
+    <p>Create a professional resume in seconds using AI.</p>
+    <a href="ai-resume.html">
+        <button>Start Building</button>
+    </a>
+</section>
+-->
