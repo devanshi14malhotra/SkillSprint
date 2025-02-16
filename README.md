@@ -10,17 +10,17 @@ Personalized Internship Recommendations – Get curated internship opportunities
 
 Personalized Scholarship Recommendations – Find scholarships tailored to your profile and academic background.
 
+### (Note: The following features are currently in development and will be integrated soon in future updates.)
+
 Resume/CV Builder (AI Integration) – Create professional resumes with AI assistance and receive job recommendations based on your resume.
 
-#### (Note: Some features are currently in development and will be integrated in future updates.)
+ROADMAP (Personalized Career Path) – Receive a customized roadmap tailored to your profile and aspirations.
 
-##### Career Guidance – Access expert advice to help you navigate your career path effectively.
+Career Guidance – Access expert advice to help you navigate your career path effectively. Includes:
 
-##### AI Chatbot (NLP) – Get instant responses to career-related queries through an AI-powered chatbot.
+* AI Chatbot (NLP) – Get instant responses to career-related queries through an AI-powered chatbot.
 
-##### Real-time Access to Renowned Career Counselors – Connect with industry experts for professional guidance.
-
-##### ROADMAP (Personalized Career Path) – Receive a customized roadmap tailored to your profile and aspirations.
+* Real-time Access to Renowned Career Counselors – Connect with industry experts for professional guidance.
 
 ## 🛠 Tech Stack
 
