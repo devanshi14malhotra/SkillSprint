@@ -14,13 +14,13 @@ Personalized Scholarship Recommendations – Find scholarships tailored to your 
 
 Resume/CV Builder (AI Integration) – Create professional resumes with AI assistance and receive job recommendations based on your resume.
 
-ROADMAP (Personalized Career Path) – Receive a customized roadmap tailored to your profile and aspirations.
-
 Career Guidance – Access expert advice to help you navigate your career path effectively. Includes:
 
 * AI Chatbot (NLP) – Get instant responses to career-related queries through an AI-powered chatbot.
 
 * Real-time Access to Renowned Career Counselors – Connect with industry experts for professional guidance.
+
+* ROADMAP (Personalized Career Path) – Receive a customized roadmap tailored to your profile and aspirations.
 
 ## 🛠 Tech Stack
 
