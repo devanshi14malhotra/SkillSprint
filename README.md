@@ -1,8 +1,8 @@
-# SkillSprint
+# SkillStriver
 
-## 🚀 About SkillSprint
+## 🚀 About SkillStriver
 
-SkillSprint is a web application designed to empower students and aspiring learners by helping them discover personalized scholarships, internships, and job opportunities that align with their unique skills and aspirations. With expert career guidance at their fingertips, they are just a step away from achieving their dreams.
+SkillStriver is a web application designed to empower students and aspiring learners by helping them discover personalized scholarships, internships, and job opportunities that align with their unique skills and aspirations. With expert career guidance at their fingertips, they are just a step away from achieving their dreams.
 
 ## 🌟 Features
 
@@ -44,4 +44,4 @@ Mobile App Version – Extend the platform to a mobile-friendly application.
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you'd like to improve SkillSprint, feel free to fork the repo and submit a pull request.
+Contributions are welcome! If you'd like to improve SkillStriver, feel free to fork the repo and submit a pull request.
